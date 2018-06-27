@@ -1,0 +1,2 @@
+# Don't track content of these folders
+C:\xampp\htdocs\mrp\application\config\database.php
